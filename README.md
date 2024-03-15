@@ -9,7 +9,7 @@ Before running the application, ensure you have the following software installed
 
 Clone this repository to your local machine using the following command:
 
-### `git clone <repository_url>`
+### `git clone (https://github.com/Sivaprasad47/erpsystem.git)`
 
 Navigate to the project directory:
 
